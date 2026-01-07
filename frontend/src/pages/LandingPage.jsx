@@ -32,6 +32,7 @@ const internetMilestones = [
     title: "World Wide Web",
     description: "Tim Berners-Lee proposes the concept of hyperlinked information system"
   },
+
   {
     year: "1993",
     title: "Mosaic Browser",
